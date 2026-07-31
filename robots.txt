@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bluelamp16.github.io/magpie.github.io/sitemap.xml
